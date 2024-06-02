@@ -1,7 +1,7 @@
 describe('XProfile Tests', () => {
   beforeEach(() => {
     // Visits the page before each test
-    cy.visit('http://15.207.101.173:8081/workspace/amaiyaaditya-ME_FE_BUILDOUT_XPROFILE/') // Replace with your actual URL
+    cy.visit('http://13.201.81.211:8081/workspace/amaiyaaditya-ME_FE_BUILDOUT_XPROFILE/') // Replace with your actual URL
   });
 
   it('has the correct title', () => {
