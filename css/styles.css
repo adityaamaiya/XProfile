@@ -31,10 +31,12 @@
   
 .menu-icon {
   width: 25px;  
+  cursor: pointer;
 }
   
 .setting-icon {
   width: 25px;
+  cursor: pointer;
 }
   
 .profile-pic {
@@ -49,6 +51,7 @@
   font-size: 22px;
   margin-top: 20px;
   font-weight: 500px;
+  margin-bottom: 5px;
 }
 
   .social-media img{
